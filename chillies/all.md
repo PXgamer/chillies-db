@@ -3,5 +3,6 @@
 ### [Capsicum Annuum](capsicum-annuum)
 
 - [Apache F1](capsicum-annuum/apache.md)
+- [Banana](capsicum-annuum/banana.md)
 - [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
 - [Poblano](capsicum-annuum/poblano.md)
