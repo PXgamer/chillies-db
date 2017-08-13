@@ -6,3 +6,4 @@
 - [Banana](capsicum-annuum/banana.md)
 - [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
 - [Poblano](capsicum-annuum/poblano.md)
+- [Pretty Purple](capsicum-annuum/pretty-purple.md)
