@@ -3,3 +3,4 @@
 ### [Capsicum Annuum](capsicum-annuum)
 
 - [Apache F1](capsicum-annuum/apache.md)
+- [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
