@@ -8,6 +8,7 @@
 - [Cherry Bomb](capsicum-annuum/cherry-bomb.md)
 - [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
 - [Padron](capsicum-annuum/padron.md)
+- [Pequin](capsicum-annuum/pequin.md)
 - [Poblano](capsicum-annuum/poblano.md)
 - [Pretty Purple](capsicum-annuum/pretty-purple.md)
 - [Purple Tiger](capsicum-annuum/purple-tiger.md)
