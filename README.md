@@ -6,3 +6,8 @@ An open source database of chillies, recipes and all things spicy.
 
 - [All Chillies](chillies/all.md)
 - [Capsicum Annuum](chillies/capsicum-annuum)
+
+
+### Contributing
+
+Please read the [contributing](CONTRIBUTING.md) document.
