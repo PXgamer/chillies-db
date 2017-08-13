@@ -7,6 +7,7 @@
 - [Cascabel](capsicum-annuum/cascabel.md)
 - [Cherry Bomb](capsicum-annuum/cherry-bomb.md)
 - [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
+- [Mirasol](capsicum-annuum/mirasol.md)
 - [Padron](capsicum-annuum/padron.md)
 - [Pequin](capsicum-annuum/pequin.md)
 - [Poblano](capsicum-annuum/poblano.md)
