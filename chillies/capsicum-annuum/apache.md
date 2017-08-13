@@ -8,7 +8,7 @@
 
 Key | Value
 --- | ---
-Species | [Capsicum Annuums](.)
+Species | [Capsicum Annuum](.)
 Origin | Unknown
 Scoville (SHU) | ~70,000 - 80,000
 Heat Level | Hot
