@@ -8,4 +8,5 @@
 - [Padron](capsicum-annuum/padron.md)
 - [Poblano](capsicum-annuum/poblano.md)
 - [Pretty Purple](capsicum-annuum/pretty-purple.md)
+- [Purple Tiger](capsicum-annuum/purple-tiger.md)
 - [Super Chili F1](capsicum-annuum/super-chili.md)
