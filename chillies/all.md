@@ -1,6 +1,6 @@
 # List of all chillies
 
-### [Capsicum Annuum](capsicum-annuum)
+### [Capsicum Annuum](capsicum-annuum/_all.md)
 
 - [Apache F1](capsicum-annuum/apache.md)
 - [Banana](capsicum-annuum/banana.md)
@@ -15,7 +15,7 @@
 - [Purple Tiger](capsicum-annuum/purple-tiger.md)
 - [Super Chili F1](capsicum-annuum/super-chili.md)
 
-### [Capsicum Chinense](capsicum-chinense)
+### [Capsicum Chinense](capsicum-chinense/_all.md)
 
 - [Carolina Reaper](capsicum-chinense/carolina-reaper.md)
 - [Chocolate Habanero](capsicum-chinense/chocolate-habanero.md)
