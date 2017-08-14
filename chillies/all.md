@@ -14,3 +14,7 @@
 - [Pretty Purple](capsicum-annuum/pretty-purple.md)
 - [Purple Tiger](capsicum-annuum/purple-tiger.md)
 - [Super Chili F1](capsicum-annuum/super-chili.md)
+
+### [Capsicum Chinense](capsicum-chinense)
+
+- [Carolina Reaper](capsicum-chinense/carolina-reaper.md)
