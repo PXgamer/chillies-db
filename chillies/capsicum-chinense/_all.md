@@ -3,3 +3,4 @@
 - [Carolina Reaper](carolina-reaper.md)
 - [Chocolate Habanero](chocolate-habanero.md)
 - [Paper Lantern Habanero](paper-lantern-habanero.md)
+- [Scotch Bonnet](scotch-bonnet.md)
