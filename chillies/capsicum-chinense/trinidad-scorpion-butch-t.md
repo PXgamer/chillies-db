@@ -2,7 +2,7 @@
 
 ## Description
 
-> An extremely potent chili with a sharp, scorpion-like tail. They ripen to a 
+> An extremely potent chili with a sharp, scorpion-like tail. They ripen from a dark green to a deep red.
 
 ## General Information
 
