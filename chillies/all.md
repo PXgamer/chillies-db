@@ -18,3 +18,4 @@
 ### [Capsicum Chinense](capsicum-chinense)
 
 - [Carolina Reaper](capsicum-chinense/carolina-reaper.md)
+- [Chocolate Habanero](capsicum-chinense/chocolate-habanero.md)
