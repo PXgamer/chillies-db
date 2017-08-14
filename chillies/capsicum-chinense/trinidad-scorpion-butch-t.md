@@ -27,4 +27,4 @@ Time to fruit | ~90 - 120 days
 
 > The 2011 Guinness World Record holder for hottest chili. It held this position for 3 years, until the [Carolina Reaper](carolina-reaper.md) took over.
 
-> The name ButchT or Butch T is due to the seed after Butch Taylor.
+> The name ButchT or Butch T is due to the seeds used by [Butch Taylor](https://butcht.com).
