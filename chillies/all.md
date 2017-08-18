@@ -24,3 +24,7 @@
 - [Paper Lantern Habanero](capsicum-chinense/paper-lantern-habanero.md)
 - [Scotch Bonnet](capsicum-chinense/scotch-bonnet.md)
 - [Trinidad Scorpion Butch T](capsicum-chinense/trinidad-scorpion-butch-t.md)
+
+### [Capsicum Frutescens](capsicum-frutescens/_all.md)
+
+- [Piri Piri](capsicum-frutescens/piri-piri.md)
