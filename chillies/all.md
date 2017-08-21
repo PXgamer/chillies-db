@@ -28,3 +28,4 @@
 ### [Capsicum Frutescens](capsicum-frutescens/_all.md)
 
 - [Piri Piri](capsicum-frutescens/piri-piri.md)
+- [Siling Labuyo](capsicum-frutescens/siling-labuyo.md)
