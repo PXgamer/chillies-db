@@ -14,4 +14,5 @@
 - [Poblano](poblano.md)
 - [Pretty Purple](pretty-purple.md)
 - [Purple Tiger](purple-tiger.md)
+- [Serrano](serrano.md)
 - [Super Chili F1](super-chili.md)
