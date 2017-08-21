@@ -5,6 +5,7 @@
 - [Cascabel](cascabel.md)
 - [Cherry Bomb](cherry-bomb.md)
 - [Hungarian Wax](hungarian-wax.md)
+- [Hidalgo](hidalgo.md)
 - [Jalapeño](jalapeno.md)
 - [Masquerade](masquerade.md)
 - [Mirasol](mirasol.md)
