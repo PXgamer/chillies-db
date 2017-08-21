@@ -7,6 +7,7 @@
 - [Cascabel](capsicum-annuum/cascabel.md)
 - [Cherry Bomb](capsicum-annuum/cherry-bomb.md)
 - [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
+- [Hidalgo](capsicum-annuum/hidalgo.md)
 - [Jalapeño](capsicum-annuum/jalapeno.md)
 - [Masquerade](capsicum-annuum/masquerade.md)
 - [Mirasol](capsicum-annuum/mirasol.md)
