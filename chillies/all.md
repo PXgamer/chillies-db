@@ -29,3 +29,4 @@
 
 - [Piri Piri](capsicum-frutescens/piri-piri.md)
 - [Siling Labuyo](capsicum-frutescens/siling-labuyo.md)
+- [Tabasco](capsicum-frutescens/tabasco.md)
