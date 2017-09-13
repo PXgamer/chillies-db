@@ -20,6 +20,10 @@
 - [Serrano](capsicum-annuum/serrano.md)
 - [Super Chili F1](capsicum-annuum/super-chili.md)
 
+### [Capsicum Baccatum](capsicum-baccatum/_all.md)
+
+- [Bishop's crown](capsicum-baccatum/bishops-crown.md)
+
 ### [Capsicum Chinense](capsicum-chinense/_all.md)
 
 - [Carolina Reaper](capsicum-chinense/carolina-reaper.md)
