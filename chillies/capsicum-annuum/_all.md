@@ -13,6 +13,7 @@
 - [Padron](padron.md)
 - [Pequin](pequin.md)
 - [Poblano](poblano.md)
+- [Prairie Fire](prairie-fire.md)
 - [Pretty Purple](pretty-purple.md)
 - [Purple Tiger](purple-tiger.md)
 - [Serrano](serrano.md)

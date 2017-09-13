@@ -15,6 +15,7 @@
 - [Padron](capsicum-annuum/padron.md)
 - [Pequin](capsicum-annuum/pequin.md)
 - [Poblano](capsicum-annuum/poblano.md)
+- [Prairie Fire](capsicum-annuum/prairie-fire.md)
 - [Pretty Purple](capsicum-annuum/pretty-purple.md)
 - [Purple Tiger](capsicum-annuum/purple-tiger.md)
 - [Serrano](capsicum-annuum/serrano.md)
