@@ -5,6 +5,7 @@
 - [Apache F1](capsicum-annuum/apache.md)
 - [Banana](capsicum-annuum/banana.md)
 - [Cascabel](capsicum-annuum/cascabel.md)
+- [Cayenne](capsicum-annuum/cayenne.md)
 - [Cherry Bomb](capsicum-annuum/cherry-bomb.md)
 - [Hungarian Wax](capsicum-annuum/hungarian-wax.md)
 - [Hidalgo](capsicum-annuum/hidalgo.md)

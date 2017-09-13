@@ -3,6 +3,7 @@
 - [Apache F1](apache.md)
 - [Banana](banana.md)
 - [Cascabel](cascabel.md)
+- [Cayenne](cayenne.md)
 - [Cherry Bomb](cherry-bomb.md)
 - [Hungarian Wax](hungarian-wax.md)
 - [Hidalgo](hidalgo.md)
