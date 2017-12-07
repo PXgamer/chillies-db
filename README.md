@@ -10,7 +10,10 @@ An open source database of chillies, recipes and all things spicy.
 - [Capsicum Chinense](chillies/capsicum-chinense/_all.md)
 - [Capsicum Frutescens](chillies/capsicum-frutescens/_all.md)
 
+## Contributing
 
-### Contributing
+Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) for details.
 
-Please read the [contributing](CONTRIBUTING.md) document.
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
