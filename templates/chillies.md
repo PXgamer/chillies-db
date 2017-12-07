@@ -1,4 +1,4 @@
-# Chili Name
+# Chilli Name
 
 ## Description
 

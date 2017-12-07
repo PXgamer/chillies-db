@@ -1,4 +1,4 @@
-# Super Chili F1
+# Super Chilli F1
 
 ## Description
 
