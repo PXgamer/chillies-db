@@ -19,7 +19,7 @@
 - [Pretty Purple](capsicum-annuum/pretty-purple.md)
 - [Purple Tiger](capsicum-annuum/purple-tiger.md)
 - [Serrano](capsicum-annuum/serrano.md)
-- [Super Chili F1](capsicum-annuum/super-chili.md)
+- [Super Chili F1](capsicum-annuum/super-chilli.md)
 
 ### [Capsicum Baccatum](capsicum-baccatum/_all.md)
 

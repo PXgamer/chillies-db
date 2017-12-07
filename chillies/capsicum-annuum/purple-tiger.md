@@ -2,7 +2,7 @@
 
 ## Description
 
-> A stunning purple chili that's perfect for patios and windowsills. Dark purple to black coloured, with an interesting shape.
+> A stunning purple chilli that's perfect for patios and windowsills. Dark purple to black coloured, with an interesting shape.
 
 ## General Information
 

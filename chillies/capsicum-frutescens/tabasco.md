@@ -2,7 +2,7 @@
 
 ## Description
 
-> This cultivar has a typical bushy growth, that is the same with all Frutescens varieties. They are the only variety of chili with fruit that are not dry on the inside. When mature, they remain upright on the stems, rather than hanging down like other varieties. Tabasco peppers start out green and as they ripen, turn orange and then red.
+> This cultivar has a typical bushy growth, that is the same with all Frutescens varieties. They are the only variety of chilli with fruit that are not dry on the inside. When mature, they remain upright on the stems, rather than hanging down like other varieties. Tabasco peppers start out green and as they ripen, turn orange and then red.
 
 ## General Information
 

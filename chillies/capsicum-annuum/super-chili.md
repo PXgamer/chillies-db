@@ -2,7 +2,7 @@
 
 ## Description
 
-> An extremely abundant chili that can produce around 300 chillies if growing in the right conditions. A favourite in many dishes that can be used fresh, dried or pickled.
+> An extremely abundant chilli that can produce around 300 chillies if growing in the right conditions. A favourite in many dishes that can be used fresh, dried or pickled.
 
 ## General Information
 

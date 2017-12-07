@@ -2,7 +2,7 @@
 
 ## Description
 
-> Originally named the HP22B, this is a red and contorted chili, with a small, sharp pointed tail. They have a bushy plant, that thrives under the right conditions.
+> Originally named the HP22B, this is a red and contorted chilli, with a small, sharp pointed tail. They have a bushy plant, that thrives under the right conditions.
 
 ## General Information
 
@@ -25,6 +25,6 @@ Time to fruit | ~150 - 250 days (but can be less depending on the strain)
 
 ## Notes, hints and tips
 
-> This chili was the Guinness World Record holder for the hottest chili in 2013. It was grown by The PuckerButt Pepper Company (USA).
+> This chilli was the Guinness World Record holder for the hottest chilli in 2013. It was grown by The PuckerButt Pepper Company (USA).
 
 > You should always wear gloves when handling Carolina Reapers due to the high potency.

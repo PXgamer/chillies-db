@@ -2,7 +2,7 @@
 
 ## Description
 
-> The name of this chili comes from the shape of it's fruit, similar to a Tam o'Shanter hat. 
+> The name of this chilli comes from the shape of it's fruit, similar to a Tam o'Shanter hat. 
 
 ## General Information
 

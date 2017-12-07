@@ -2,7 +2,7 @@
 
 ## Description
 
-> An extremely potent chili with a sharp, scorpion-like tail. They ripen from a dark green to a deep red.
+> An extremely potent chilli with a sharp, scorpion-like tail. They ripen from a dark green to a deep red.
 
 ## General Information
 
@@ -25,6 +25,6 @@ Time to fruit | ~90 - 120 days
 
 ## Notes, hints and tips
 
-> The 2011 Guinness World Record holder for hottest chili. It held this position for 3 years, until the [Carolina Reaper](carolina-reaper.md) took over.
+> The 2011 Guinness World Record holder for hottest chilli. It held this position for 3 years, until the [Carolina Reaper](carolina-reaper.md) took over.
 
 > The name ButchT or Butch T is due to the seeds used by [Butch Taylor](https://butcht.com).

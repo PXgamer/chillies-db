@@ -2,7 +2,7 @@
 
 ## Description
 
-> A relatively hot chili that is commonly used in it's powdered form for flavouring many food dishes.
+> A relatively hot chilli that is commonly used in it's powdered form for flavouring many food dishes.
 
 ## General Information
 

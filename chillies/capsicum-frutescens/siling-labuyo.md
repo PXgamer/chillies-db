@@ -2,7 +2,7 @@
 
 ## Description
 
-> A relatively small bush, which produces small fruit with a fiery heat. This chili is native to the Philippines. They have pungent fruit, that characteristically point upwards. Usually ripening from a deep green, to a vibrant red, but varieties can have a range of different coloured fruit.
+> A relatively small bush, which produces small fruit with a fiery heat. This chilli is native to the Philippines. They have pungent fruit, that characteristically point upwards. Usually ripening from a deep green, to a vibrant red, but varieties can have a range of different coloured fruit.
 
 ## General Information
 
@@ -25,7 +25,7 @@ Time to fruit | ~90 - 120 days
 
 ## Notes, hints and tips
 
-> The common name is Tagalog for "wild chili".
+> The common name is Tagalog for "wild chilli".
 
 > The labuyo fruit used to be used as a herbal plant to reduce pain with arthritis, rheumatism, dyspepsia, flatulence, and toothache ([source][medicinal]).
 

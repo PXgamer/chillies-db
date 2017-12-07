@@ -25,4 +25,4 @@ Time to fruit | ~90 - 100 days
 
 ## Notes, hints and tips
 
-> This chili is known by many other names, including Peri peri, Christmas bell, and joker's hat.
+> This chilli is known by many other names, including Peri peri, Christmas bell, and joker's hat.

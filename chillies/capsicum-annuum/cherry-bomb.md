@@ -2,7 +2,7 @@
 
 ## Description
 
-> A mildly spicy, low maintenance chili which is easy to grow. They start off a mid-green colour, and ripen to a crimson red.
+> A mildly spicy, low maintenance chilli which is easy to grow. They start off a mid-green colour, and ripen to a crimson red.
 
 ## General Information
 

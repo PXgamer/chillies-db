@@ -2,7 +2,7 @@
 
 ## Description
 
-> A very early-starting variety with a lovely, unique colour pattern. The fruit start off purple and ripen to a bright red through yellow and orange. The flowers are larger than most chili plant flowers and are tinged with purple.
+> A very early-starting variety with a lovely, unique colour pattern. The fruit start off purple and ripen to a bright red through yellow and orange. The flowers are larger than most chilli plant flowers and are tinged with purple.
 
 ## General Information
 

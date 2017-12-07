@@ -2,7 +2,7 @@
 
 ## Description
 
-> A productive plant with fuzzy green leaves and stems with white flowers. The fruit ripens from a dark green to red with a shiny, thick skin. It is similar to the [Serrano](serrano.md) chili.
+> A productive plant with fuzzy green leaves and stems with white flowers. The fruit ripens from a dark green to red with a shiny, thick skin. It is similar to the [Serrano](serrano.md) chilli.
 
 ## General Information
 
