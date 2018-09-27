@@ -29,6 +29,7 @@
 
 - [Carolina Reaper](capsicum-chinense/carolina-reaper.md)
 - [Chocolate Habanero](capsicum-chinense/chocolate-habanero.md)
+- [Dragon's Breath](capsicum-chinense/dragons-breath.md)
 - [Paper Lantern Habanero](capsicum-chinense/paper-lantern-habanero.md)
 - [Scotch Bonnet](capsicum-chinense/scotch-bonnet.md)
 - [Trinidad Scorpion Butch T](capsicum-chinense/trinidad-scorpion-butch-t.md)
