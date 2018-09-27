@@ -14,7 +14,7 @@ In order to make changes, you will need to do the following:
 
 - Fork the repository using the `Fork` button in the top right
 - Clone your repository locally
-- Checkout a new branch (name this as what your PR will change. e.g. `add_chilli/scotch_bonnet`)
+- Checkout a new branch (name this as what your PR will change. e.g. `feature/scotch-bonnet`)
 - Make your changes on that branch, and push it to GitHub.
 - Open a pull request, guidance for this can be found here: https://help.github.com/articles/about-pull-requests
 
